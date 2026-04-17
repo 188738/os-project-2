@@ -1,0 +1,16 @@
+Friday April 17th 12:30 PM
+
+I need to have a Main class for the bank simulation, a teller class, and a customer class;
+The main class
+
+: should create and start 3 teller threads, 50 customer threads; it should instantiate all the semaphore objects hat will be shared among the threads to control access to the safe; it will hold a counter to notify customers that all 50 tellers have been served
+
+The teller class
+
+: should use a loop that ensures that all customers are served
+
+The customer class:
+
+: will have an int id for the transaction
+
+I just finished the Main class
