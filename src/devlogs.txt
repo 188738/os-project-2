@@ -13,4 +13,13 @@ The customer class:
 
 : will have an int id for the transaction
 
-I just finished the Main class
+I have a basic idea for the customer class code
+
+
+Friday April 17th 11:28 PM
+
+
+I finished the project I wrote the code
+
+
+
